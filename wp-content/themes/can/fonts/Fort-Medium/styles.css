@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Fort-Medium';
+  src: url('Fort-Medium.eot?#iefix') format('embedded-opentype'),  url('Fort-Medium.otf')  format('opentype'),
+	     url('Fort-Medium.woff') format('woff'), url('Fort-Medium.ttf')  format('truetype'), url('Fort-Medium.svg#Fort-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

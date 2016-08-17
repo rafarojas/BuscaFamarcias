@@ -1,0 +1,167 @@
+
+/*  Field Group Animation  */
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes fields-group-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(10em,0);} 
+}
+
+/* Standard */
+@keyframes fields-group-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(10em,0);} 
+} 
+
+/* Mozilla */
+@-moz-keyframes fields-group-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(10em,0);} 
+}
+
+/* IE */
+@-o-keyframes fields-group-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(10em,0);} 
+}
+
+
+
+/*  Search Buttom Animation  */
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes search-buttom-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+}
+
+/* Standard */
+@keyframes search-buttom-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+} 
+
+/* Mozilla */
+@-moz-keyframes search-buttom-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+}
+
+/* IE */
+@-o-keyframes search-buttom-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+}
+
+
+
+
+
+
+/*  New Search Animation  */
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes new-search-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(10em,0);} 
+}
+
+/* Standard */
+@keyframes new-search-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(10em,0);} 
+} 
+
+/* Mozilla */
+@-moz-keyframes new-search-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(10em,0);} 
+}
+
+/* IE */
+@-o-keyframes new-search-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(10em,0);} 
+}
+
+
+
+/*  Product details Animation  */
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes product-detail-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+}
+
+/* Standard */
+@keyframes product-detail-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+} 
+
+/* Mozilla */
+@-moz-keyframes product-detail-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+}
+
+/* IE */
+@-o-keyframes product-detail-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+}
+
+
+
+
+/*  Farma details Animation  */
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes farma-detail-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+}
+
+/* Standard */
+@keyframes farma-detail-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+} 
+
+/* Mozilla */
+@-moz-keyframes farma-detail-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+}
+
+/* IE */
+@-o-keyframes farma-detail-animation {
+    0%   {  opacity:1; }
+    100% {  opacity:0; 
+    		transform: translate(-10em,0);} 
+}
+
+
+
+
+

@@ -1,0 +1,134 @@
+
+/*  Utility Navigation Animation  Contraer */
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes utility-navi-left-animation {
+    0%   {  opacity:1; 
+            left:-40px;}
+    100% {  transform: translate(0,0);} 
+}
+
+/* Standard */
+@keyframes utility-navi-left-animation {
+    0%   {  opacity:1; 
+            left:-40px;}
+    100% {  transform: translate(0,0);}   
+} 
+
+/* Mozilla */
+@-moz-keyframes utility-navi-left-animation {
+    0%   {  opacity:1; 
+            left:-40px;}
+    100% {  transform: translate(0,0);} 
+}
+
+/* IE */
+@-o-keyframes utility-navi-left-animation {
+    0%   {  opacity:1; 
+            left:-40px;}
+    100% {  transform: translate(0,0);} 
+}
+
+
+
+
+
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes utility-navi-right-animation {
+    0%   {  opacity:1; 
+            left:125px;}
+    100% {  transform: translate(0,0);} 
+}
+
+/* Standard */
+@keyframes utility-navi-right-animation {
+    0%   {  opacity:1; 
+            left:125px;}
+    100% {  transform: translate(0,0);}   
+} 
+
+/* Mozilla */
+@-moz-keyframes utility-navi-right-animation {
+    0%   {  opacity:1; 
+            left:125px;}
+    100% {  transform: translate(0,0);} 
+}
+
+/* IE */
+@-o-keyframes utility-navi-right-animation {
+    0%   {  opacity:1; 
+            left:125px;}
+    100% {  transform: translate(0,0);} 
+}
+
+
+
+
+
+
+/*  Utility Navigation Animation  Expandir */
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes utility-navi-left-exp-animation {
+    0%   {  opacity:1; }
+    100% {  transform: translate(-60px,0);
+            opacity: 0;} 
+}
+
+/* Standard */
+@keyframes utility-navi-left-exp-animation {
+    0%   {  opacity:1; }
+    100% {  transform: translate(-60px,0);
+            opacity: 0;}    
+} 
+
+/* Mozilla */
+@-moz-keyframes utility-navi-left-exp-animation {
+    0%   {  opacity:1; }
+    100% {  transform: translate(-60px,0);
+            opacity: 0;}  
+}
+
+/* IE */
+@-o-keyframes utility-navi-left-exp-animation {
+    0%   {  opacity:1; }
+    100% {  transform: translate(-60px,0);
+            opacity: 0;} 
+}
+
+
+
+
+
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes utility-navi-right-exp-animation {
+    0%   {  opacity:1; }
+    100% {  transform: translate(100px,0);
+            opacity: 0;} 
+}
+
+/* Standard */
+@keyframes utility-navi-right-exp-animation {
+    0%   {  opacity:1; }
+    100% {  transform: translate(100px,0);
+            opacity: 0;}   
+} 
+
+/* Mozilla */
+@-moz-keyframes utility-navi-right-exp-animation {
+    0%   {  opacity:1; }
+    100% {  transform: translate(100px,0);
+            opacity: 0;} 
+}
+
+/* IE */
+@-o-keyframes utility-navi-right-exp-animation {
+    0%   {  opacity:1; }
+    100% {  transform: translate(100px,0);
+            opacity: 0;} 
+}
+
+
+

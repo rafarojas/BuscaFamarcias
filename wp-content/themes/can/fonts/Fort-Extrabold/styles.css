@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Fort-Extrabold';
+  src: url('Fort-Extrabold.eot?#iefix') format('embedded-opentype'),  url('Fort-Extrabold.otf')  format('opentype'),
+	     url('Fort-Extrabold.woff') format('woff'), url('Fort-Extrabold.ttf')  format('truetype'), url('Fort-Extrabold.svg#Fort-Extrabold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

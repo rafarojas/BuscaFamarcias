@@ -1,0 +1,202 @@
+/*-- Wordpress changes navigation + validations --*/
+
+.featured-article {
+    margin-bottom:10px;
+}
+.show-less-articles {
+    display:none;
+}
+.static-design-content { 
+    font-weight: bold;
+    font-size: 20px;
+}
+/*ul.nav li.current-menu-item  a {
+    border-bottom: 4px solid #00B0EB;
+}*/
+/*ul.nav li.current-menu-parent > a {
+    border-bottom: 4px solid #00B0EB;
+}*/
+.primary-nav .nav li.current-menu-item > a {
+     border-bottom: 4px solid #00B0EB;
+     padding-bottom: 5px;
+}
+.primary-nav .nav li.dropdown a {    
+    padding: 9px 0 5px;
+}
+.primary-nav .nav .dropdown-menu li.current-menu-item.active a {
+    color: #00aeef;
+    background-color: transparent;
+}
+.primary-nav .nav .dropdown-menu li.current-menu-item a {
+    border-bottom: none;
+}
+.primary-nav .nav li.current_page_parent > a {
+     border-bottom: 4px solid #00B0EB;
+}
+.primary-nav .nav li.current-page-ancestor > a {
+     border-bottom: 4px solid #00B0EB;
+}
+.show-less-term-loan {
+    display:none;
+}
+.show-less-termDetail-loan {
+    display:none;
+}
+.show-less-member-benefits {
+    display:none;
+}
+label.sucess {
+    color: #ff9900;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 17px;
+}
+#loader-conatiner {
+    text-align:center;
+}
+.avatar {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+form.search-form-section label.error{
+    color: red;
+    position: absolute;
+    bottom: -13px;
+    padding: 0 25px 0 0;
+    font-size: 14px;
+    left: 28px;
+}
+label.error {
+    color:red; 
+    display: block;
+    text-align: left;
+    padding: 0 15px;
+    font-size: 14px;
+    font-family: 'Fort-Book';
+}
+div.error {
+    color:red; 
+    display: block;
+    text-align: left;
+    padding: 0 15px;
+    font-size: 14px;
+    font-family: 'Fort-Book';
+    font-weight: bold;
+}
+.bawpvc-ajax-counter, .show-less-press-news {
+    display:none;
+}
+.resource-sidebar-newsletter-loader {
+    text-align: center;
+    padding-top: 8px;
+}
+.disabled-fieldset{ 
+    opacity:0.5;
+}
+.search-result .sidebar .disabled-fieldset input[type="checkbox"] + label,
+.search-result .sidebar .disabled-fieldset input[type="checkbox"] + label span { 
+   cursor:initial;
+}
+
+body section.skip_navigation {
+    display: none;
+}
+label.error:before,
+div.error:before {
+    content: "!";
+    color: #fff;
+    font-family: 'Fort-Bold';
+    border-radius: 50px;
+    background-color: red;
+    padding: 1px 8px 0;
+    margin-right: 8px;
+    font-size: 16px;
+    line-height: 28px;    
+}
+.get-Quote-col label.error,
+.get-Quote-col div.error,
+#newsletter-subscription label.error,
+#ebook-form label.error {
+    color: #fff;
+}
+#newsletter-subscription .news-letter-field label.error {
+    color:red;
+}
+.search-form-section label.error:before {
+    line-height: 20px;
+}
+.get-Quote-col span.dollar-icon {
+    background: #c8c8c8 none repeat scroll 0 0;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+    color: #6b2875;
+    font-size: 16px;
+    font-family: 'Fort-Bold';
+    padding: 0 21px;
+    position: absolute;
+    z-index: 99;
+    width:50px;
+    height: 50px;
+    padding: 16px 0 17px 4px;
+    
+}
+.get-Quote-col input#loan-amount {
+    border-radius: 25px;
+    padding-left:58px;
+}
+.get-Quote-col .input-group {
+    display: block;
+}
+#social-media-section.glossary-detail-page{
+   top: 0;
+}
+
+@media (min-width:1200px) {
+    .primary-nav .nav .dropdown-menu li a {
+    padding: 9px 0;
+    }
+}
+@media (max-width:991px) {
+    form.search-form-section label.error {
+        position: relative;
+        bottom: 0px;
+        left: 5px;
+    }
+    .search-form-section label.error:before {
+        line-height: 27px;
+    }
+}
+@media (max-width:1024px) and (min-width:768px) {
+    .get-Quote-col span.dollar-icon {
+        height: 40px;
+        padding-top: 12px;
+    }
+}
+@media (max-width:767px) {
+    .primary-nav .nav li.dropdown a {
+        padding:9px 0;
+        margin:0;        
+    }  
+    .primary-nav .nav .dropdown-menu li.current-menu-item a,
+    .primary-nav .nav .dropdown-menu li.current-menu-item.active a {
+       color: #fff; 
+    }
+    .primary-nav .nav li.current-menu-item > a,
+    .primary-nav .nav li.current_page_parent > a {
+        border-bottom: 4px solid #fff;
+    }    
+    .get-Quote-form label.error {
+        margin-bottom: 0;
+    }    
+    .primary-nav .nav li.current-menu-item > a,
+    .primary-nav .nav li.dropdown a {
+        display: inline-block;
+    }
+}
+
+
+

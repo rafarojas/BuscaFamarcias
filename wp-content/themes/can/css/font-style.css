@@ -1,0 +1,91 @@
+/* Fort-Bold */
+@font-face {
+  font-family: 'Fort-Bold';
+  src: url('../fonts/Fort-Bold/Fort-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/Fort-Bold/Fort-Bold.otf')  format('opentype'),
+	     url('../fonts/Fort-Bold/Fort-Bold.woff') format('woff'), url('../fonts/Fort-Bold/Fort-Bold.ttf')  format('truetype'), url('../fonts/Fort-Bold/Fort-Bold.svg#Fort-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Fort-Bold */
+
+/* Fort-BoldItalic */
+@font-face {
+  font-family: 'Fort-BoldItalic';
+  src: url('../fonts/Fort-BoldItalic/Fort-BoldItalic.eot?#iefix') format('embedded-opentype'),  url('../fonts/Fort-BoldItalic/Fort-BoldItalic.otf')  format('opentype'), url('../fonts/Fort-BoldItalic/Fort-BoldItalic.woff') format('woff'), url('../fonts/Fort-BoldItalic/Fort-BoldItalic.ttf')  format('truetype'), url('../fonts/Fort-BoldItalic/Fort-BoldItalic.svg#Fort-BoldItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Fort-BoldItalic */
+
+/*Fort book  */
+@font-face {
+  font-family: 'Fort-Book';
+  src: url('../fonts/Fort-Book/Fort-Book.eot?#iefix') format('embedded-opentype'),  url('../fonts/Fort-Book/Fort-Book.otf')  format('opentype'),
+	     url('../fonts/Fort-Book/Fort-Book.woff') format('woff'), url('../fonts/Fort-Book/Fort-Book.ttf')  format('truetype'), url('../fonts/Fort-Book/Fort-Book.svg#Fort-Book') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/*Fort book  */
+
+/* Fort-BookItalic */
+@font-face {
+  font-family: 'Fort-BookItalic';
+  src: url('../fonts/Fort-BookItalic/Fort-BookItalic.eot?#iefix') format('embedded-opentype'),  url('../fonts/Fort-BookItalic/Fort-BookItalic.otf')  format('opentype'),
+	     url('../fonts/Fort-BookItalic/Fort-BookItalic.woff') format('woff'), url('../fonts/Fort-BookItalic/Fort-BookItalic.ttf')  format('truetype'), url('../fonts/Fort-BookItalic/Fort-BookItalic.svg#Fort-BookItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Fort-BookItalic */
+
+/* Fort-Extrabold */
+@font-face {
+  font-family: 'Fort-Extrabold';
+  src: url('../fonts/Fort-Extrabold/Fort-Extrabold.eot?#iefix') format('embedded-opentype'),  url('../fonts/Fort-Extrabold/Fort-Extrabold.otf')  format('opentype'),
+	     url('../fonts/Fort-Extrabold/Fort-Extrabold.woff') format('woff'), url('../fonts/Fort-Extrabold/Fort-Extrabold.ttf')  format('truetype'), url('../fonts/Fort-Extrabold/Fort-Extrabold.svg#Fort-Extrabold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Fort-Extrabold */
+
+
+/* Fort-Light */
+@font-face {
+  font-family: 'Fort-Light';
+  src: url('../fonts/Fort-Light/Fort-Light.eot?#iefix') format('embedded-opentype'),  url('../fonts/Fort-Light/Fort-Light.otf')  format('opentype'),
+	     url('../fonts/Fort-Light/Fort-Light.woff') format('woff'), url('../fonts/Fort-Light/Fort-Light.ttf')  format('truetype'), url('../fonts/Fort-Light/Fort-Light.svg#Fort-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Fort-Light */
+
+
+/* Fort-Medium */
+
+@font-face {
+  font-family: 'Fort-Medium';
+  src: url('../fonts/Fort-Medium/Fort-Medium.eot?#iefix') format('embedded-opentype'),  url('../fonts/Fort-Medium/Fort-Medium.otf')  format('opentype'),
+	     url('../fonts/Fort-Medium/Fort-Medium.woff') format('woff'), url('../fonts/Fort-Medium/Fort-Medium.ttf')  format('truetype'), url('../fonts/Fort-Medium/Fort-Medium.svg#Fort-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Fort-Medium */
+
+/* Fort-MediumItalic */
+
+@font-face {
+  font-family: 'Fort-MediumItalic';
+  src: url('../fonts/Fort-MediumItalic/Fort-MediumItalic.eot?#iefix') format('embedded-opentype'),  url('../fonts/Fort-MediumItalic/Fort-MediumItalic.otf')  format('opentype'),
+	     url('../fonts/Fort-MediumItalic/Fort-MediumItalic.woff') format('woff'), url('../fonts/Fort-MediumItalic/Fort-MediumItalic.ttf')  format('truetype'), url('../fonts/Fort-MediumItalic/Fort-MediumItalic.svg#Fort-MediumItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Fort-MediumItalic */
+
+
+
+
+
+
+
+
